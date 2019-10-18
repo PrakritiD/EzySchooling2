@@ -1,2 +1,2 @@
-# EzySchooling2
-Updated version of school site
+# School Website Design
+Updated design version of a school website.
